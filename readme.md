@@ -1,6 +1,6 @@
 # JSDoc Example
 
-This is a dummy script program to show you how to use JSDoc for documenting your JavaScript and also using it for type checking.
+This is some example code to show you how to use JSDoc for documenting your JavaScript and also using it for type checking.
 
 ### Usage
 
